@@ -1,69 +1,91 @@
-# 🚀 AI 全球 2B 产品全生命周期增长指南
+# 📈 B2B SaaS Growth Playbook
 
-> **OpenClaw Skill** | 版本：v4.0（终极融合版）
+> **The complete guide to B2B product growth** — From PMF validation to ecosystem-scale growth, with real playbooks from HeyGen, Deel, Vercel, Supabase, and AWS.
 
-从 PMF 验证到生态化增长的完整操作手册，整合 HeyGen、Deel、Vercel、Supabase、AWS 等标杆企业的真实增长案例。
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://github.com/openclaw/openclaw)
+[![Languages](https://img.shields.io/badge/Languages-4-green)](#-multilingual-support)
 
-## 🌍 多语言支持
+## What is this?
 
-| 语言 | 入口 |
+This is a **comprehensive B2B SaaS growth playbook** covering the entire product lifecycle — from finding product-market fit to building billion-dollar partner ecosystems. Based on real case studies from **HeyGen** (1800 user interviews), **Deel** ($90M ARR from partners), and **Vercel** ("The Frontend Cloud" category creation).
+
+**Key topics covered:**
+- 🎯 PMF validation (HeyGen's 1800 interview methodology)
+- 📈 PLG + SLG hybrid growth models
+- 🤝 Affiliate marketing (3 commission models compared)
+- 🌐 Channel partner ecosystems (Deel's tiered certification)
+- 📝 Contract templates (SOR, SOW, MSA, PCR, quotes)
+- 📊 North Star metrics & AARRR framework
+
+## 🌍 Multilingual Support
+
+| Language | Entry Point |
 |:---|:---|
 | 🇨🇳 中文 | [SKILL.md](SKILL.md) |
 | 🇺🇸 English | [references/en/README.md](references/en/README.md) |
 | 🇯🇵 日本語 | [references/ja/README.md](references/ja/README.md) |
 | 🇰🇷 한국어 | [references/ko/README.md](references/ko/README.md) |
 
-## ✨ 特性
-
-- 🎯 **PMF验证**：HeyGen 1800次用户访谈案例 + 完整访谈大纲模板
-- 📈 **混合增长**：PLG + SLG 双螺旋模型，PQL定义框架
-- 🤝 **联盟营销**：三种佣金模型对比（InVideo/HeyGen/Deel）
-- 🌐 **渠道生态**：Deel $90M ARR 伙伴计划解析
-- 📝 **合同模板**：SOR/SOW/MSA/PCR/报价单完整模板
-- 📊 **数据驱动**：北极星指标 + AARRR漏斗体系
-
-## 📦 安装
+## 📦 Installation
 
 ```bash
+# Clone to OpenClaw skills directory
 git clone https://github.com/Gingiris/gingiris-b2b-growth.git ~/.openclaw/skills/gingiris-b2b-growth
 ```
 
-## 🎯 触发场景
+## 📚 Contents
 
-- "B2B 增长策略" / "B2B growth strategy"
-- "PMF 验证" / "product-market fit"
-- "用户调研" / "user interview"
-- "PLG 增长" / "product-led growth"
-- "联盟营销" / "affiliate marketing"
-- "渠道伙伴" / "channel partners"
-- "合同模板" / "SOW" / "MSA"
-
-## 📚 内容结构
-
-```
-gingiris-b2b-growth/
-├── SKILL.md                      # 核心入口
-├── references/
-│   ├── foundation.md             # PMF、用户调研、社区（中文）
-│   ├── growth-engine.md          # PLG/SLG、联盟、渠道
-│   ├── value-presentation.md     # 销售Deck、案例叙事
-│   ├── contracts.md              # 合同模板
-│   ├── metrics.md                # 指标体系
-│   ├── en/                       # English
-│   ├── ja/                       # 日本語
-│   └── ko/                       # 한국어
-```
-
-## 🔑 核心案例索引
-
-| 公司 | 亮点 |
+| Guide | Description |
 |:---|:---|
-| **HeyGen** | 1800次用户访谈找到PMF，20%持续佣金模型 |
-| **Deel** | 伙伴计划贡献$90M ARR，分级认证体系 |
-| **Vercel** | "The Frontend Cloud"品类定义，v0赋能伙伴100倍效率 |
-| **Supabase** | "Build in a weekend, scale to millions" |
-| **InVideo** | 50%首单高额返佣 |
+| [Foundation](references/foundation.md) | PMF validation, user interviews, community building |
+| [Growth Engine](references/growth-engine.md) | PLG/SLG hybrid, affiliate marketing, channel partners |
+| [Value Presentation](references/value-presentation.md) | Sales deck structure, customer success stories |
+| [Contracts](references/contracts.md) | SOR, SOW, MSA, PCR, quote templates |
+| [Metrics](references/metrics.md) | North Star, AARRR funnel, tool stack |
+
+## 🎯 Key Case Studies
+
+| Company | Key Insight |
+|:---|:---|
+| **HeyGen** | 1800 user interviews to find PMF; 20% recurring affiliate commission |
+| **Deel** | Partner program contributed $90M ARR; 4-tier certification system |
+| **Vercel** | "The Frontend Cloud" category definition; v0 enables 100x partner efficiency |
+| **Supabase** | "Build in a weekend, scale to millions" — perfect value proposition |
+| **InVideo** | 50% first-order commission model |
+
+## 💡 Growth Framework
+
+```
+     ┌─────────────┐
+     │   Product   │ ← PLG Core
+     │  Experience │
+     └──────┬──────┘
+            │
+     ┌──────▼──────┐
+     │  Community  │ ← CLG Amplification
+     └──────┬──────┘
+            │
+     ┌──────▼──────┐
+     │  Channel    │ ← Scale
+     │  Ecosystem  │
+     └──────┬──────┘
+            │
+     ┌──────▼──────┐
+     │   Direct    │ ← SLG Monetization
+     │    Sales    │
+     └─────────────┘
+```
+
+## 🔗 Related Resources
+
+- [gingiris-launch](https://github.com/Gingiris/gingiris-launch) — Product Hunt launch playbook
+- [OpenClaw](https://github.com/openclaw/openclaw) — AI agent framework
+
+## 👤 Author
+
+**Iris (生姜iris)** — Former COO @ AFFiNE (60K GitHub stars), $10M total funding raised
 
 ## 📄 License
 
-MIT
+MIT — Feel free to use, modify, and share.
